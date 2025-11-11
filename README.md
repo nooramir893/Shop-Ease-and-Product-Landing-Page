@@ -96,6 +96,3 @@ The design ensures smooth navigation, elegant responsiveness, and interactive sh
 
 This project is open-source and free to use for learning and portfolio purposes.
 
----
-
-Would you like me to fill in your actual **GitHub username** and **LinkedIn link** inside this README so it’s 100% upload-ready?
