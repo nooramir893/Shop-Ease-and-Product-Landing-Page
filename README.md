@@ -7,8 +7,7 @@ The design ensures smooth navigation, elegant responsiveness, and interactive sh
 
 ### 🌐 **Live Demo**
 
-🔗 [View on GitHub Pages](https://yourusername.github.io/shopease-landing-page)
-*(Replace with your actual GitHub Pages link after deployment.)*
+🔗 https://nooramir893.github.io/Shop-Ease-and-Product-Landing-Page/
 
 ---
 
