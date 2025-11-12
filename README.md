@@ -85,9 +85,8 @@ The design ensures smooth navigation, elegant responsiveness, and interactive sh
 ### 👩‍💻 **Author**
 
 **Noor-ul-Ain Amir**
-💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-🌐 [Portfolio](https://yourportfolio.com/)
-📧 [Email](mailto:youremail@example.com)
+💼 [LinkedIn](www.linkedin.com/in/noor-ul-ain-amir-696a49333)
+📧 [Email](noorulainamir458@gmail.com)
 
 ---
 
